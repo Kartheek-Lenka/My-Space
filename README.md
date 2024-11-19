@@ -4,7 +4,7 @@
 visit my website and let me know the responses on web to implement more features!
 https://myspacevr.netlify.app
 
-![Home Page](assets/screenshots/screenshot1.png)
+![Home Page](dist/assets/VRPage.png)
 
 ## Subject
 This project is a fully responsive VR landing page built with React. It aims to showcase a virtual reality experience or product.
